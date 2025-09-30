@@ -1,0 +1,8 @@
+{
+  "name": "Air Cargo Manifest AI Assistant",
+  "description": "An intelligent dashboard for viewing, analyzing, and getting AI-powered insights from air cargo manifests. The application features a three-panel layout to navigate from master waybills to specific house bills and ULDs, with an integrated Gemini assistant for summaries and anomaly detection.",
+  "requestFramePermissions": [],
+  "env": {
+    "API_KEY": "568d8f02-ebe6-4c42-bbe1-016b8f996454"
+  }
+}

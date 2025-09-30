@@ -1,0 +1,4 @@
+{
+    "entryPoint": "api.ts",
+    "route": "/api/{path...}"
+}

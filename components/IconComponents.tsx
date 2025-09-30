@@ -1,4 +1,3 @@
-
 import React from 'react';
 
 export const SearchIcon = ({ className }: { className?: string }) => (
@@ -73,8 +72,8 @@ export const ArrowDownIcon = ({ className }: { className?: string }) => (
     </svg>
 );
 
-export const WarningIcon = ({ className }: { className?: string }) => (
+export const PrinterIcon = ({ className }: { className?: string }) => (
     <svg className={className} xmlns="http://www.w3.org/2000/svg" fill="none" viewBox="0 0 24 24" strokeWidth={1.5} stroke="currentColor">
-        <path strokeLinecap="round" strokeLinejoin="round" d="M12 9v3.75m-9.303 3.376c-.866 1.5.217 3.374 1.948 3.374h14.71c1.73 0 2.813-1.874 1.948-3.374L13.949 3.378c-.866-1.5-3.032-1.5-3.898 0L2.697 16.126ZM12 15.75h.007v.008H12v-.008Z" />
+        <path strokeLinecap="round" strokeLinejoin="round" d="M6.72 13.829c-.24.03-.48.062-.72.096m.72-.096a42.415 42.415 0 0 1 10.56 0m-10.56 0L6 18.25m10.56 0L18 13.829m-12 0A2.25 2.25 0 0 1 4.5 12V6a2.25 2.25 0 0 1 2.25-2.25h10.5A2.25 2.25 0 0 1 19.5 6v6a2.25 2.25 0 0 1-2.25 2.25m-12 0h10.5a2.25 2.25 0 0 0 2.25-2.25V6.313M15 5.25h1.5a.75.75 0 1 0 0-1.5H15v1.5Z" />
     </svg>
 );

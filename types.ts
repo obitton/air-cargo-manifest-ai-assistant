@@ -84,10 +84,3 @@ export interface ManifestFilters {
     sortBy?: string;
     sortDir?: 'asc' | 'desc';
 }
-
-export interface ShipmentIssue {
-    id: string;
-    level: 'warning' | 'info' | 'critical';
-    message: string;
-    suggestion: string;
-}
